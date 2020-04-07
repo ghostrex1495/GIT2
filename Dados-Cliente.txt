@@ -1,0 +1,7 @@
+NOME:		CPF:		TELEFONE:	ENDEREÇO:			NASCIMENTO:
+Camila Carvalho	679.930.699-71	(31) 7305-4936	Rua Radialista João Alves 48	11/03/1968
+Fábio Barbosa	839.872.638-57	(42) 8443-9747	Rua Um 380			17/02/1940
+Dennis Green	040-70-2996-22	(34) 4203-4671	Rua Doutor Antônio José de Barros 1458	05/06/1953
+Leila Barbosa	672.527.573-74	(11) 7104-3895	Rua Visconde de Castro 1246	12/03/1926
+Vitória Alves	150.982.764-11	(11) 8691-5601	Rua Salomão Wainberg 244	02/09/2016
+Cauã Araujo	416.985.063-76	(62) 5181-5421	Rua RB 3 270			30/06/1949
